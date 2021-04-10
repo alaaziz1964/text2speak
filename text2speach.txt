@@ -1,0 +1,4 @@
+my name is alaa azeez tawfeeq
+this file text is to be read and speach by python program
+thats all up to now
+
